@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Platypi:ital@0;1&display=swap');
+
+body{
+    background-color: #495c6f;
+}
+
+.main{
+    overflow: auto;
+    float: left;
+    overflow: auto;
+    width: 300px;
+    height: 460px;
+    border: 2px solid rgb(44, 44, 44);
+    border-radius: 7px;
+    padding: 10px;
+    margin: 1.5%;
+    text-align: center;
+    background-color: #7783a3;
+}
+
+img{
+    border-radius: 50%;
+    height: 200px;
+    text-align:center;
+}
+
+
+h3, h1{ 
+    font-family: "Platypi", serif;
+    font-size: 28px;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 3px;
+}
+
+p{
+    color: white;
+    font-size: 14px;
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.card{
+    float: left;
+}
+
+h1{
+    color: #16bd16;
+}
+
+h3{
+    color: rgb(90, 13, 13);
+}
